@@ -10,7 +10,7 @@
 - Des del client utilitza net use per connectar la lletra H: que no sigui persistent.
 - Desconnecta la unitat.
 - Connecta el recurs a la lletra I: amb credencials d'un usuari.
-- Desconnecta la unitat.
+- Desconnecta la unitat. (La imatge de abaix te tots aquests punts junts)
 
 ![image](https://github.com/user-attachments/assets/08050f5e-6ee2-454f-80e2-d8ee748a6cf7)
 
